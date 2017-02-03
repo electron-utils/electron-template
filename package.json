@@ -1,0 +1,29 @@
+{
+  "name": "electron-template",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node run.js",
+    "test": "mocha test/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electron-utils/electron-template.git"
+  },
+  "keywords": [
+    "Electron",
+    "Platform"
+  ],
+  "author": "jwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/electron-utils/electron-template/issues"
+  },
+  "homepage": "https://github.com/electron-utils/electron-template",
+  "devDependencies": {
+    "electron": "^1.4.15",
+    "mocha": "^3.2.0",
+    "spectron": "3.4.1"
+  }
+}
