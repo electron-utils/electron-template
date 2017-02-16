@@ -16,7 +16,7 @@ npm install --save electron-template
 ## Run Examples:
 
 ```bash
-npm start example
+npm start examples/${name}
 ```
 
 ## Usage
